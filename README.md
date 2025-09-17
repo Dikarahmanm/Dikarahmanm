@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a results-oriented **Software Developer** with strong expertise in **Angular, ServiceNow, AWS, and full-stack development**. Currently working as a **Technical Support** at PT Berca Hardayaperkasa (CCM Group), with extensive experience in designing and building scalable, high-performance applications using modern cloud technologies and service-oriented architectures.
+I'm a results-oriented **Software Developer** with strong expertise in **Angular, ServiceNow, AWS, and full-stack development**. Currently working as a **Technical Consultant** at PT Berca Hardayaperkasa (CCM Group), with extensive experience in designing and building scalable, high-performance applications using modern cloud technologies and service-oriented architectures.
 
 - 🔭 I'm currently working on **Angular and .NET solutions for multiple client projects**
 - 🌱 I'm currently expanding my expertise in **AWS Cloud Architecture and ServiceNow development**
