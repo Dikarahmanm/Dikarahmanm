@@ -22,7 +22,7 @@ I'm a results-oriented **Software Developer** with strong expertise in **Angular
 ## 💼 Professional Experience
 
 ### 🏢 **PT Berca Hardayaperkasa - CCM Group** (Jun 2025 - Present)
-**Technical Support**
+**Technical Consultant**
 - Technical consultant for Angular and .NET solutions across multiple client projects
 - Collaborate with cross-functional teams for requirement analysis and solution design
 - Provide best practices for frontend-backend integration and security implementation
